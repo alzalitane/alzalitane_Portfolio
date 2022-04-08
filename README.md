@@ -1,7 +1,7 @@
 # alzalitane_Portfolio
 Example Data Analyst Portfolio
 
-# Project 1: Google Data Analytics Capstone: Cyclistic
+# [Project 1: Google Data Analytics Capstone: Cyclistic](https://github.com/alzalitane/Google-Cyclistic)
 
 ## Introduction:
 A capstone project that was part of the Google Data Analytics course on Coursera. You will work for a fictional company, Cyclistic, and meet different characters and team members. In order to answer the key business questions, you will follow the steps of the data analysis process: **ask, prepare, process, analyze, share, and act**. 
