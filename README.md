@@ -49,27 +49,27 @@ Create an application by which students can use their previous subject results t
 
 ## Importance of EmSAT
 
-• Assess the knowledge and skills of candidates in the transitional stages after the general education stage and the transition to the higher education stage.
+●  Assess the knowledge and skills of candidates in the transitional stages after the general education stage and the transition to the higher education stage.
 
-• Used for university admission purposes
+●  Used for university admission purposes
 
-• Used for evaluating the effectiveness of schools’ performance and the quality of the educational system and taking the necessary decisions for improvements
+●  Used for evaluating the effectiveness of schools’ performance and the quality of the educational system and taking the necessary decisions for improvements
 
-• Provide decision-makers information about the skills acquired by students in their different academic levels.
+●  Provide decision-makers information about the skills acquired by students in their different academic levels.
 
-• Assembling accurate data about the knowledge and skills of students in the United Arab Emirates in academic subjects and across different academic cycles in accordance with national standards.
+●  Assembling accurate data about the knowledge and skills of students in the United Arab Emirates in academic subjects and across different academic cycles in accordance with national standards.
 
-• Helping students determine the appropriate educational paths
+●  Helping students determine the appropriate educational paths
 
-• Determining the level of students' performance nationally and internationally.
+●  Determining the level of students' performance nationally and internationally.
 
 ## Scenario:
 
 UAE grade 12, secondary school students undertake standartized exams for university admission called the EMSATS. The main subjects the students undertake exams in are as follows:
-• English
-• Maths
-• Arabic
-• Physics
+●  English
+●  Maths
+●  Arabic
+●  Physics
 
 The score is out of 2000.
 
