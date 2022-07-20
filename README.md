@@ -37,3 +37,39 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
 casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
+
+# [Project 2: EMSAT Score Prediction](https://alzalitane.shinyapps.io/Emsat_Prediction/?_ga=2.147398705.780812755.1658315813-238353889.1658315813)
+
+
+## Introduction:
+The EmSAT is a national system of standardized computer-based tests, based on United Arab Emirates national standards.
+
+## Objectives
+Create an application by which students can use their previous subject results to predict their resepctive EMSAT score before undertaking the exam thus giving the student an idea of his or her current level in the subject.
+
+## Importance of EmSAT
+
+• Assess the knowledge and skills of candidates in the transitional stages after the general education stage and the transition to the higher education stage.
+
+• Used for university admission purposes
+
+• Used for evaluating the effectiveness of schools’ performance and the quality of the educational system and taking the necessary decisions for improvements
+
+• Provide decision-makers information about the skills acquired by students in their different academic levels.
+
+• Assembling accurate data about the knowledge and skills of students in the United Arab Emirates in academic subjects and across different academic cycles in accordance with national standards.
+
+• Helping students determine the appropriate educational paths
+
+• Determining the level of students' performance nationally and internationally.
+
+## Scenario:
+
+UAE grade 12, secondary school students undertake standartized exams for university admission called the EMSATS. The main subjects the students undertake exams in are as follows:
+• English
+• Maths
+• Arabic
+• Physics
+
+The score is out of 2000.
+
