@@ -9,7 +9,7 @@ A capstone project that was part of the Google Data Analytics course on Coursera
 ## Scenario:
 As a junior data analyst I am tasked to work with the marketing team at Cyclistic a bike sharing company in Chicago. The company seeks to maximize the number of annual memberships and seek to understandd how the casual rider and annual members use Cyclistic bikes differently. Using these insights gained from the data analysis the team will be able to design a new marketing startegy to convert more casual riders to annual members. Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-## Characters and teams
+## Characters and teams:
   ● Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
 disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about
@@ -27,7 +27,7 @@ achieve them.
   ● Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
 
-## About the company
+## About the company:
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments.
 One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
@@ -44,10 +44,10 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 ## Introduction:
 The EmSAT is a national system of standardized computer-based tests, based on United Arab Emirates national standards.
 
-## Objectives
+## Objectives:
 Create an application by which students can use their previous subject results to predict their resepctive EMSAT score before undertaking the exam thus giving the student an idea of his or her current level in the subject.
 
-## Importance of EmSAT
+## Importance of EmSAT:
 
 -  Assess the knowledge and skills of candidates in the transitional stages after the general education stage and the transition to the higher education stage.
 
@@ -79,5 +79,5 @@ The score is out of 2000.
 ## Introduction:
 It is practically impossible to be exactly sure how much crude oil there is available for production in oil reservoirs. As a result geologists and reservoir engineers have devised numerous methods and tools in order to calculate the potential production rate from said reservoir. 
 
-## Objectives
+## Objectives:
 Create an application that will deploy a Monte Carlo simulation using reservoir properties to calculate the low(P90) mid(P50) and high(P10) production rate quickly.
