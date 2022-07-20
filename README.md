@@ -73,3 +73,11 @@ UAE grade 12, secondary school students undertake standartized exams for univers
 
 The score is out of 2000.
 
+# [Project 2: OIP Monte Carlo Simulation](https://alzalitane.shinyapps.io/STOIP_MC/?_ga=2.118048911.780812755.1658315813-238353889.1658315813)
+
+
+## Introduction:
+It is practically impossible to be exactly sure how much crude oil there is available for production in oil reservoirs. As a result geologists and reservoir engineers have devised numerous methods and tools in order to calculate the potential production rate from said reservoir. 
+
+## Objectives
+Create an application that will deploy a Monte Carlo simulation using reservoir properties to calculate the low(P90) mid(P50) and high(P10) production rate quickly.
