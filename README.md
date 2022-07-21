@@ -81,3 +81,16 @@ It is practically impossible to be exactly sure how much crude oil there is avai
 
 ## Objectives:
 Create an application that will deploy a Monte Carlo simulation using reservoir properties to calculate the low(P90) mid(P50) and high(P10) production rate quickly.
+
+# [Project 4: AG School Dashboard]()
+
+
+## Introduction:
+AG School is a secondary school located in Westbrook-Margate. It deals with students from numerous nationalities and backgrounds. The school can cater for 900 students per year.
+
+## Objectives:
+Create an online dashboard that will be used to analyze students score performance for term 2 of the 2021-2022 academic year, look for relationship between students performance and abscence as well as to gain insight on how to imporove student performance for the next term. You are also been tasked with determining the number of students whom are below average, normal, and those whom have exceeded expectations as well as the students whom are top and bottom of their respective classes.
+
+## Scenario:
+
+You have been tasked with analyzing the students results for term 2 of the 2021-2022 academic year.
