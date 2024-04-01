@@ -1,5 +1,5 @@
-# alzalitane_Portfolio
-Example Data Analyst Portfolio
+# Portfolio Mix
+Data Analyst & ML
 
 # [Project 1: Google Data Analytics Capstone: Cyclistic](https://github.com/alzalitane/Google-Cyclistic)
 
